@@ -43,7 +43,6 @@ A comprehensive learning management system powered by 4 specialized AI agents th
 1.  **Clone the repository**
     ```bash
     git clone <repository-url>
-    cd Agents
     ```
 
 2.  **Create virtual environment**
@@ -70,7 +69,7 @@ A comprehensive learning management system powered by 4 specialized AI agents th
 
 5.  **Set up the database**
     ```bash
-    python setup_database.py
+    python data/setup_database.py
     ```
 
 6.  **Run the application**
@@ -88,8 +87,8 @@ A comprehensive learning management system powered by 4 specialized AI agents th
 1.  **Enter Your Information**
     - Provide your name and learning goals
     - Select your experience level (Beginner, Intermediate, Advanced)
-    - Choose your preferred learning style (Visual, Auditory, Kinesthetic, Reading/Writing)
-
+    - Choose your learning preferences
+      
 2.  **Set Your Schedule Preferences**
     - Select available days for studying
     - Choose preferred time slots (morning, afternoon, evening)
@@ -254,14 +253,6 @@ A comprehensive learning management system powered by 4 specialized AI agents th
 - **Advanced Analytics**: Machine learning insights and predictions
 - **Integration APIs**: Connect with external learning platforms
 - **Gamification**: Achievements, streaks, and learning rewards
-
-## 🤝 Contributing
-
-1.  Fork the repository
-2.  Create a feature branch
-3.  Make your changes
-4.  Add tests if applicable
-5.  Submit a pull request
 
 ## 📄 License
 
