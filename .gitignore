@@ -1,0 +1,4 @@
+/.env
+/ai_coach.egg-info
+/venv
+/__pycache__
