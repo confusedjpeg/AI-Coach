@@ -61,7 +61,11 @@ A comprehensive learning management system powered by 4 specialized AI agents th
     Create a `.env` file in the root directory:
     ```env
     OPENAI_API_KEY=your_openai_api_key_here
-    DATABASE_URL=postgresql://username:password@localhost:5432/learning_db
+    DB_HOST=your_host_name
+    DB_NAME=learning_coach
+    DB_USER=your_postgres_username
+    DB_PASSWORD=your_postgres_password
+    DB_PORT=5432
     ```
 
 5.  **Set up the database**
