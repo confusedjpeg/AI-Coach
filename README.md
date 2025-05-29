@@ -1,5 +1,7 @@
 # 🎓 AI-Powered Adaptive Learning System
 
+https://github.com/user-attachments/assets/9ad61f63-e2cf-4c18-a738-d67283224a11
+
 A comprehensive learning management system powered by 4 specialized AI agents that create personalized learning experiences, analyze study sessions, optimize schedules, and provide adaptive recommendations.
 
 ## 🌟 Features Overview
