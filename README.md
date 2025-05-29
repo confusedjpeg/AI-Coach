@@ -32,6 +32,26 @@ A comprehensive learning management system powered by 4 specialized AI agents th
 - Suggests next topics to focus on based on performance
 - Optimizes learning strategies based on data-driven insights
 
+## 🛠️ Technologies Used
+
+### Backend
+- **Python**: Core programming language for building the application
+- **LangChain**: Framework for building AI-powered workflows and integrating LLMs
+- **LangGraph**: Used for managing complex AI agent interactions and workflows
+- **PostgreSQL**: Relational database for storing student data, progress, and learning paths
+
+### AI Integration
+- **OpenAI GPT-4**: Language model for generating learning paths, analyzing study sessions, and providing adaptive recommendations
+- **LangChain Prompts**: Custom prompt templates for AI agents
+- **Pydantic**: Data validation and serialization for AI-generated outputs
+
+### Frontend
+- **Streamlit**: Interactive web application framework for building the dashboard and user interface
+
+### Other Tools
+- **Logging**: Python logging module for debugging and tracking application behavior
+- **Environment Variables**: `.env` file for securely managing API keys and database credentials
+
 ## 🚀 Getting Started
 
 ### Prerequisites
